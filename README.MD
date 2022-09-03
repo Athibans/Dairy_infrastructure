@@ -1,11 +1,11 @@
-1St ly sign up into the page with who you are.
 
-2nd ly login into the page what you have given in the signup page with correct nunmber
-with password then it will take to the web of the main page.
+Creating an web portal to manage and strengthen dairy infrastructure of dairy processors of the Cooperative and private dairy sector.Monitoring using geographical locations.
 
-3rd ly in the main page left side top of the screen 3line button will given click that button
-it will show list of view like
 
+
+
+Programming languages used are HTML,CSS,JAVASCRIPT,PHP and MYSQLI(database)
+Here is an concept of an our web portal pages in step by step method
 1.Register
 2.milk procurement
 3.Cumulative quantity
@@ -32,7 +32,7 @@ it will show list of view like
 some producTs are workable or new products buyed to company or some machines are repaired.
 for that purpose we created the page.
 
-6.In asset tracking also in company machines are working not traked.
+6.In asset tracking also in company machines are working is tracked.
 
 7.In visualization .To visualize the data here we used TABLUEA software with our private account. To view the visualization the images are stored in the visualizing folder.
 
